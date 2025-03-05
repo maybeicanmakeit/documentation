@@ -28,4 +28,8 @@ defmodule Documentation do
     :my_third_function
   end
 
+  def my_fourth_function do
+    :my_fourth_function
+  end
+
 end
