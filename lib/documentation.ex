@@ -33,7 +33,15 @@ defmodule Documentation do
   end
 
   def my_fifth_function do
-    :my_fifth_function
+    :my_fifth_function‚
+  end
+
+  def my_sixth do
+    :my_sixth
+  end
+
+  def my_seventh_function do
+    :my_seventh_function
   end
 
 end
