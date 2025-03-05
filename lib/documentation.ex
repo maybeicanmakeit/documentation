@@ -24,4 +24,8 @@ defmodule Documentation do
     :my_second_function
   end
 
+  def my_third_function do
+    :my_third_function
+  end
+
 end
