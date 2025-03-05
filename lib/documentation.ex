@@ -32,4 +32,8 @@ defmodule Documentation do
     :my_fourth_function
   end
 
+  def my_fifth_function do
+    :my_fifth_function
+  end
+
 end
