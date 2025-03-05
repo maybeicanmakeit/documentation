@@ -15,4 +15,8 @@ defmodule Documentation do
   def hello do
     :world
   end
+
+  def my_first_function do
+    :my_first_function
+  end
 end
